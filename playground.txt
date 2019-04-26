@@ -13,3 +13,5 @@ rebase
 Commit 1 Rebase
 rebase bis
 Commit 2 Rebase
+rebase ter
+Commit 3 Rebase
