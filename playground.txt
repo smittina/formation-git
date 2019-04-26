@@ -11,3 +11,5 @@ entrée 3rd branche encore
 2nd-branch
 rebase
 Commit 1 Rebase
+rebase bis
+Commit 2 Rebase
