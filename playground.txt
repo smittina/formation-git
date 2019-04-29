@@ -4,14 +4,7 @@ modif dernier commit
 je vais ajouter encore
 new commit branche
 1st-branch
-entrée 2nd branche
-entrée 3rd branche
-entrée 3rd branche encore
-3rd-branch
-2nd-branch
-rebase
-Commit 1 Rebase
-rebase bis
-Commit 2 Rebase
-rebase ter
-Commit 3 Rebase
+entrÃ©e 2nd branche
+
+
+Test test test de colaboration
