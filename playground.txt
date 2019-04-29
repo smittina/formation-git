@@ -1,4 +1,4 @@
-formation git 2
+﻿formation git 2
 Je teste un nouveau truc
 modif dernier commit
 je vais ajouter encore
@@ -7,4 +7,12 @@ new commit branche
 entrée 2nd branche
 
 
+
 Test test test de colaboration
+entrée 3rd branche
+entrée 3rd branche encore
+3rd-branch
+Test pull
+Essai pr
+Essai pr collaboration
+
